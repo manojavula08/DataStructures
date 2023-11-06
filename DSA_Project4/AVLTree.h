@@ -1,7 +1,5 @@
 /*
-    Name: Manoj Kumar Reddy Avula
-    Project Name: Indexing with AVL Trees
-    Description: implementing the AVL Tree that insert based on BST tree and rebalance the based on AVL tree properties rotate left, rotate right and also double rotation left and right based on the balance factor of the node. Also return the height, size and range of nodes provides by the end user.  
+   Project Name: Indexing with AVL Trees
 */
 
 #include<iostream>
