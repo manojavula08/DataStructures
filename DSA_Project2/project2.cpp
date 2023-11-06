@@ -1,7 +1,5 @@
 /*
-    Name: Manoj Kumar Reddy Avula
     ProjectName: FIGHT!
-    Description: It is a game between two player's. Player need to enter their character name, role, hitPoints, damageBonus, armorClass, attackBonus. After the simulation fight between two players. The output displays the name of the winner.
 */
 
 #include <iostream>// the library that provides input and output functionality using streams.
