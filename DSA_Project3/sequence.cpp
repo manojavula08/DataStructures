@@ -1,7 +1,5 @@
 /*
-Name : Manoj Kumar Reddy Avula
-Project Nmae:  Linked Sequence Data Structure
-Description: In this project we will discuss the development of an array sequence using a Double linked list. The sequence supports operations such as insert, push back, pop back, erase and returning the back values of the sequence. Additionally it ensures that the output is correctly handled using the ostream operator and creates arrays using the [] operator.
+Project Name:  Linked Sequence Data Structure
 */
 #include "Sequence.h" // importing the sequence.h file
 
