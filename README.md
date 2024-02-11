@@ -1,8 +1,6 @@
 # DataStructures
-Don't modify any thing in the repo
+Don't modify anything in the repo
 
-Please take as a reference don't paste same as the code
+Please take this as a reference don't paste the same as the code
 
-you may found in the plagarism.
-
-Always use the smart AI tools for madify
+you may find in the plagiarism.
